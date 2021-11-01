@@ -95,7 +95,7 @@ If you discover any security related issues, please email us instead of using th
 
 ## Credits
 
-- Martin Nestorov - Web Developer @ Smarty Studio MBN Ltd.
+- Martin Nestorov - Web Developer @ Smarty Studio.
 - All Contributors
 
 ## License
