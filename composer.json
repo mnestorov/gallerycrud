@@ -10,9 +10,8 @@
     "homepage": "https://github.com/smartystudio/gallerycrud",
     "license": "MIT",
     "authors": [{
-        "name": "Martin Nestorov",
-        "email": "m.nestorov@smartystudio.net",
-        "role": "Web Developer"
+        "name": "Smarty Studio",
+        "email": "devteam@smartystudio.net",
     }],
     "require": {
        "php": "^7.3|^8.0",
