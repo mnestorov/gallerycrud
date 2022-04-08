@@ -11,7 +11,7 @@
     "license": "MIT",
     "authors": [{
         "name": "Smarty Studio",
-        "email": "devteam@smartystudio.net",
+        "email": "devteam@smartystudio.net"
     }],
     "require": {
        "php": "^7.3|^8.0",
